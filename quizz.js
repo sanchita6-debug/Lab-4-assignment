@@ -3,15 +3,15 @@ const quizQuestions = [
     "What is 2 + 2?",
     "What programming language are we using?",
     "What is the largest planet in our solar system?",
-    "What does HTML stand for?"
+    "What is 5 + 5?"
 ]
 
 const answers = [ 
     "paris",
      "4",
-     "Javasript",
-     "Jupiter",
-     "Hyper Text Markup Language"
+     "javascript",
+     "jupiter",
+     "10"
  ]
 
 let score = 0;
